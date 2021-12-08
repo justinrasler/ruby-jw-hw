@@ -62,24 +62,24 @@ end
 find_area 9, 9
 p 'break'
 
-nums = [5, 5, 6, 7, 2, 4, 3, 2, 1, 9, 7, 6, 0, 0]
+# nums = [5, 5, 6, 7, 2, 4, 3, 2, 1, 9, 7, 6, 0, 0]
 
-def multiply_each_by_five arr
+# def multiply_each_by_five arr
 
-  while nums do
+#   while nums do
       
-      p nums
-      nums * 5
+#       p nums
+#       nums * 5
   
-  end
+#   end
   
-  until nums == nums * 5 do
-      p nums
+#   until nums == nums * 5 do
+#       p nums
      
   
-  end
-end
-multiply_each_by_five nums
+#   end
+# end
+# multiply_each_by_five nums
 
 # ##6
 # # Hashes
